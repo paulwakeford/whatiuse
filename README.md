@@ -2,7 +2,7 @@
 
 Here's a list of hardware and software that I use for my work and at home, along with a brief description of why I use it. I work as a solution architect, most recently for a media company, and have also recently run an IT consultancy concentrating on cloud cost, security and training (including video editing). I just finished up at the media job (mid January 2020) and I start a new job in February 2020 so (a) I have time to write this up and (b) things may change soon (new laptop etc, probably with higher security levels than the BYOD devices I use now).
 
-![](https://images.paulwakeford.info/muscarinic-microsporum-trachitis-alfione.png)
+![](https://images.paulwakeford.info/ostosis-biotites-anthrenus-barotse.png)
 
 For the last year I have worked remotely all the time, either at home or in coffee shops, AirBNBs etc. I am based in the UK/London mostly, travelling Europe-wide. I've been in the UK for about a year, previously I was in Australia for 15 years and still own a house there, along with a lot of stuff in storage. I feel like I'm still 'setting up' in Europe.
 
