@@ -82,7 +82,7 @@ A **FireTV 4K Stick** for other streaming services.
 
 ## **Software**
 
-OSes - current versions of MacOS, iOS (I don't jailbreak) and watchOS. Staying current with updates is likely to be the biggest improvement you can make to your tech security. 
+OSes - current versions of macOS, iOS (I don't jailbreak) and watchOS. Staying current with updates is likely to be the biggest improvement you can make to your tech security. 
 
 For macOS I have my dock on the right hand side - so it doesn't move when I add or remove monitors. 
 
@@ -96,7 +96,7 @@ Here are the apps in the common categories that I have in my dock permanently, o
 |Calendar|[Fantastical2](https://flexibits.com/fantastical)|Fantastical2|Fantastical2|I love the UI and the unified view.|
 |Contacts|[Cardhop](https://flexibits.com/cardhop)|Native app|Native app|A new job means contacts are likely to be more important and so I've cleaned them up on the MacBook and trying Cardhop. Seems good so far.|
 |Notes|[Evernote](https://evernote.com) and native app|Evernote and native app|None|I'm migrating away from Evernote as I just don't need the functionality it provides and Notes is free. I wish Notes was on the Watch though.|
-|Todo|[Todoist](https://todoist.com)|Todoist|Todoist|I like it a lot. Syncs, I can share items with others (we have holiday to do lists at home, etc). Has a web app too. The Watch app is buggy though - syncing with it is very poor so the status of items if often outdated. Watch todos are not something I need though. (As I write this I wonder if it doesn't update properly if it's not set as a complication?)|
+|Todo|[Todoist](https://todoist.com)|Todoist|Todoist|I like it a lot. Syncs, I can share items with others (we have holiday todo lists at home, for example). Has a web app too. The Watch app is buggy though - syncing with it is very poor so the status of items is often outdated. Watch todos are not something I need though. (As I write this I wonder if it doesn't update properly if it's not set as a complication?)|
 |Text Editor|[Visual Studio Code](https://code.visualstudio.com)|None|None|All the cool kids use Code, right? I also own Sublime Text but the Code plugin community is awesome.|
 |Skype|Native app|Native app|None|Used for some family members who have dumped Facebook|
 |Twitter|[Tweetbot](https://tapbots.com/tweetbot/)|Tweetbot & Twitter app|None|Love the Tweetbot UI, hate that Twitter's API doesn't expose polls, threads, notifications. I have the Twitter app on the phone just to get notifications.|
