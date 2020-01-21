@@ -14,7 +14,7 @@ Links here are not affiliate ones but Amazon links are via [smile.amazon.co.uk](
 
 ## **Hardware**
 
-**Laptop**: Macbook Pro 15" 2018 (2.2 GHz 6-Core Intel Core i7, Radeon Pro 555X 4 GB, 16 GB 2400 MHz DDR4 RAM). I chose the 15" model for the larger screen space which is handy when working in wide spreadsheets. 16GB because 8GB is not enough for heavy work. 16GB may have been a built to order option, I don't remember. It is quite heavy though, and I am going to be trialling a 13" Macbook Pro soon to see if that's sufficient.
+**Laptop**: MacBook Pro 15" 2018 (2.2 GHz 6-Core Intel Core i7, Radeon Pro 555X 4 GB, 16 GB 2400 MHz DDR4 RAM). I chose the 15" model for the larger screen space which is handy when working in wide spreadsheets. 16GB because 8GB is not enough for heavy work. 16GB may have been a built to order option, I don't remember. It is quite heavy though, and I am going to be trialling a 13" MacBook Pro soon to see if that's sufficient.
 
 **Charger**: Both the standard 86W Apple charger and a [TOMMOX travel friendly adaptor](https://smile.amazon.co.uk/gp/product/B07QW7QYM2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) purchased in January 2020. I'm always on the lookout for new power adaptors (and batteries) and this is the best bang for buck at the moment. I value having USB-C and USB-A charging in one package as it saves me having to use adaptors or docks to charge devices when travelling. It is 60W USB-C though (the 75W they advertise includes all ports added together). When I next upgrade I'll be looking for a high wattage GaN adaptor but they are mostly US only.
 
@@ -22,21 +22,21 @@ Links here are not affiliate ones but Amazon links are via [smile.amazon.co.uk](
 
 **External monitor**: currently none. I do own a 4K 43" Philips monitor but it's on loan in Australia.
 
-**Power bank**: This [RAVPower](https://smile.amazon.co.uk/gp/product/B06XTMK9H2/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) one. 26800mAh is the largest you can carry in carry-on, with USB-C and A output. It can charge my Macbook to about 80% while still using it, and charge a Switch too. I previously bought a similar Anker one from Amazon US but it failed and their warranty was US only.
+**Power bank**: This [RAVPower](https://smile.amazon.co.uk/gp/product/B06XTMK9H2/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) one. 26800mAh is the largest you can carry in carry-on, with USB-C and A output. It can charge my MacBook to about 80% while still using it, and charge a Switch too. I previously bought a similar Anker one from Amazon US but it failed and their warranty was US only.
 
-**Phone**: an iPhone X, 64GB. No case or screen protector, I prefer not to use them. I did buy it with Applecare+ and I've used both discounted screen repair 'lives'. This is also my only camera and my music/podcast player.
+**Phone**: an iPhone X, 64GB. No case or screen protector, I prefer not to use them. I did buy it with AppleCare+ and I've used both discounted screen repair 'lives'. This is also my only camera and my music/podcast player.
 
-**Watch**: Apple Watch series 4 non-cellular. Used as a watch, to respond to important notifications, kitchen timer, alarm clock, unlock my Macbook, track my workouts and general activity, sleep, etc. I try to 'close my rings' each day, and had a move streak of 203 days that I'm trying to beat. I also join challenges from the Reddit sub /r/AppleWatchFitness. I use a variety of coloured watch bands, both sport ones and milanese loops for special occasions. (I buy unofficial bands).
+**Watch**: Apple Watch series 4 non-cellular. Used as a watch, to respond to important notifications, kitchen timer, alarm clock, unlock my MacBook, track my workouts and general activity, sleep, etc. I try to 'close my rings' each day, and had a move streak of 203 days that I'm trying to beat. I also join challenges from the Reddit sub /r/AppleWatchFitness. I use a variety of coloured watch bands, both sport ones and Milanese loops for special occasions. (I buy unofficial bands).
 
 **Cables/adaptors**: generally official Apple cables but I also have a USB-A to USB-C/ micro-USB/Lightning cable that was free from a vendor and that I take with me travelling. I also take a generic power plug travel adaptor.
 
-**Laptop case**: [tomtoc laptop case](https://www.amazon.com.au/dp/B071NK5WQ1/ref=pe_2361882_282382012_TE_item). Fleece lined, small but a perfect fit for the 15" MBP, charger, cables and my glasses. I would prefer it if the front pockets were removeable so it could optionally be slimmer - I often have to fit this inside a carry-on (for some of the more frugal EU airlines).
+**Laptop case**: [tomtoc laptop case](https://www.amazon.com.au/dp/B071NK5WQ1/ref=pe_2361882_282382012_TE_item). Fleece lined, small but a perfect fit for the 15" MBP, charger, cables and my glasses. I would prefer it if the front pockets were removable so it could optionally be slimmer - I often have to fit this inside a carry-on (for some of the more frugal EU airlines).
 
 **Overnight bag**: A Samsonite small carry on. This is for overnight travel. I don't see the exact one I have in their range any more and I bought it in a real-world shop so don't have a link. It's much like [this one](https://www.samsonite.co.uk/hexa-packs-laptop-backpack-exp-m-15.6inch-black/116873-1041.html). It's good, but I wish it had an external water bottle carrier.
 
-**eReader**: a basic Kindle. The nearest model to mine I see is [this one](https://smile.amazon.co.uk/amazon-kindle-now-with-a-built-in-front-light/dp/B07FQKFLJT/ref=sr_1_3) but mine was a gift from 3 years ago so it may be slightly different. It's in a generic case sourced from ebay. I go through phases of reading on a Kindle and reading physical books.
+**eReader**: a basic Kindle. The nearest model to mine I see is [this one](https://smile.amazon.co.uk/amazon-kindle-now-with-a-built-in-front-light/dp/B07FQKFLJT/ref=sr_1_3) but mine was a gift from 3 years ago so it may be slightly different. It's in a generic case sourced from eBay. I go through phases of reading on a Kindle and reading physical books.
 
-**Games console**: A Nintendo Switch, the original version, not the Lite or the newer version with extra battery life. It travels in [this case](https://www.amazon.com.au/dp/B07BS4B2GT/ref=pe_2361882_282382012_TE_item) with aboout 8 physical cartridges. I own about 50 games with the rest being digital only. I find I play more games when I buy them digital as it saves me finding the right cartridge. I don't play it as much as I would like, lack of time. I expect to travel more in 2020 so should be able to tackle more of my backlog while in airports. I used to play games on an iPhone or iPad but wanted to play more Mario games. (I also own an XBox One X but it's on loan in Australia).
+**Games console**: A Nintendo Switch, the original version, not the Lite or the newer version with extra battery life. It travels in [this case](https://www.amazon.com.au/dp/B07BS4B2GT/ref=pe_2361882_282382012_TE_item) with about 8 physical cartridges. I own about 50 games with the rest being digital only. I find I play more games when I buy them digital as it saves me finding the right cartridge. I don't play it as much as I would like, lack of time. I expect to travel more in 2020 so should be able to tackle more of my backlog while in airports. I used to play games on an iPhone or iPad but wanted to play more Mario games. (I also own an XBox One X but it's on loan in Australia).
 
 **Authentication**: A Yubikey 4C Nano which lives in one USB-C slot of my MacBook Pro and is used as a Fido key for my 'tier 1' accounts.
 
@@ -74,7 +74,7 @@ A FireTV 4K Stick for other streaming services.
 
 Current versions of MacOS, iOS (I don't jailbreak) and watchOS.
 
-For macOS I have my dock on the right hand side - so it doesn't move when I add or remocve monitors.
+For macOS I have my dock on the right hand side - so it doesn't move when I add or remove monitors.
 
 Apps - easier as a table.
 
@@ -84,7 +84,7 @@ Apps - easier as a table.
 |Email|[Spark](https://sparkmailapp.com)|Spark|Spark|I'm aware of their privacy issues - I don't use the features that cause the main issues, and for me this sits on the right side of the features:privacy divide. I would pay for a better client. I previously used Airmail but found it too buggy.
 |Slack/WhatsApp/Telegram client|[Franz](https://meetfranz.com)|Native apps|None|Franz is a memory hog (it's Electron based) but then so is Slack. I tried [Ripcord](https://cancel.fm/ripcord/) for a while but it was early days and feature poor. Looks like it has got better.
 |Calendar|[Fantastical2](https://flexibits.com/fantastical)|Fantastical2|Fantastical2|I love the UI and the unified view.|
-|Contacts|[Cardhop](https://flexibits.com/cardhop)|Native app|Native app|A new job means contacts are likely to be more important and so I've cleaned them up on the Macbook and am trying CardHop. Seems good so far.|
+|Contacts|[Cardhop](https://flexibits.com/cardhop)|Native app|Native app|A new job means contacts are likely to be more important and so I've cleaned them up on the MacBook and am trying CardHop. Seems good so far.|
 |Notes|[Evernote](https://evernote.com) and native app|Evernote and native app|None|I'm migrating away from Evernote as I just don't need the functionality it provides and Notes is free. I wish Notes was on the Watch though.|
 |Todo|[Todoist](https://todoist.com)|Todoist|Todoist|I like it a lot. Syncs, I can share items with others (we have holiday to do lists at home, etc). Has a web app too. The Watch app is buggy though - syncing with it is very poor so the status of items if often outdated. Watch todos are not something I need though. (As I write this I wonder if it doesn't update properly if it's not set as a complication?)|
 |Text Editor|[Visual Studio Code](https://code.visualstudio.com)|None|None|All the cool kids use Code, right? I also own Sublime Text but the Code plugin community is awesome.|
@@ -102,7 +102,7 @@ Apps - easier as a table.
 |PDF Reader|[PDF Expert](https://pdfexpert.com)|PDF Expert|None|Works well for when you need edits that go beyond the capabilities of Preview.|
 |2FA|[Authy](https://1password.com)|Authy|Authy|The problem with yubikeys is losing one. Authy sync my tokens to all my devices. I wish it did it using something other than their cloud service so I use it for 'tier 2' accounts.
 
-**Miscellaneous macOS tools**:
+### **Miscellaneous macOS tools**:
 
 There are all icons in my menu bar:
 
@@ -120,9 +120,9 @@ autoping: a visual indication of my internet connectivity. I can't find a downlo
 
 [PasteBot](https://tapbots.com/pastebot/): a clipboard manager
 
-[iStat Menus](https://bjango.com/mac/istatmenus/): a swiss army knife of utilities in your menu bar. Clock with multi-city options, CPU load by process, battery status and greedy app list, memory pressure, network throughput, etc etc etc.
+[iStat Menus](https://bjango.com/mac/istatmenus/): a Swiss army knife of utilities in your menu bar. Clock with multi-city options, CPU load by process, battery status and greedy app list, memory pressure, network throughput, etc etc etc.
 
-[Arq](https://www.arqbackup.com): backup my entire Macbook to AWS Glacier storage overnight.
+	[Arq](https://www.arqbackup.com): backup my entire MacBook to AWS Glacier storage overnight.
 
 [Stay](https://cordlessdog.com/stay/): saves window positions as different screens are connected and disconnected.
 
@@ -132,31 +132,31 @@ autoping: a visual indication of my internet connectivity. I can't find a downlo
 
 [Google Drive File Stream](https://www.google.com/drive/download/): I use GSuite (paid) for my consultancy email and docs, this allows me to sync docs to my Google Drive.
 
-[Muzzle](https://muzzleapp.com): disables notifications when certain screensharing apps start up. Getting [a bit unmaintained](https://github.com/bdkjones/MuzzleApp/issues) now.
+[Muzzle](https://muzzleapp.com): disables notifications when certain screen-sharing apps start up. Getting [a bit unmaintained](https://github.com/bdkjones/MuzzleApp/issues) now.
 
 [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com): disables Intel CPU turbo boost option while on battery power to [enhance battery life](https://marco.org/2020/01/13/macos-low-power-mode-redux).
 
-[Boom 3D](https://www.globaldelight.com/boom/): testing this, a music equaliser. I'm unsure I play music from my Macbook speakers enough for this to be worth buying.
+[Boom 3D](https://www.globaldelight.com/boom/): testing this, a music equaliser. I'm unsure I play music from my MacBook speakers enough for this to be worth buying.
 
 [Flux](https://justgetflux.com): to reduce screen blueness after sunset. But is the blue light/sleep link a scam? [Who knows](https://articles.mercola.com/sites/articles/archive/2020/01/09/blue-light-may-not-cause-insomnia.aspx).
 
 [Be Focused Pro](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html): sometimes I need to use the Pomodoro technique to get work done. This app does all the timers for that.
 
-[BetterTouchTool](https://folivora.ai): enhances the Macbook toolbar greatly. Recently I've found it makes scrolling stutter so I'm using it less.
+[BetterTouchTool](https://folivora.ai): enhances the MacBook toolbar greatly. Recently I've found it makes scrolling stutter so I'm using it less.
 
-todo
+TODO
 
-Other apps:
+### Other apps:
 
 Parallels
 Mountain Duck
 Cyberduck
 etc
 
-iphone apps
+## iPhone apps
 
-watch apps
+## watch apps
 
-web apps
+## web apps
 
-Potential upgrades
+## Potential upgrades
